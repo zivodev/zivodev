@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zivodev
+- 🌱 I’m currently learning Game Dev
+- 📫 How to reach me ("zivodev" on all social media)
