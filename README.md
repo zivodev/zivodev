@@ -1,20 +1,3 @@
-<div align="left">
-  <a href="https://www.instagram.com/zivodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="27" height="15" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@zivodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="27" height="15" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/zivodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="27" height="15" alt="twitch logo"  />
-  </a>
-  <a href="https://www.patreon.com/zivodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="27" height="15" alt="patreon logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
